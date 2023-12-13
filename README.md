@@ -1,2 +1,2 @@
 # HardkorMinecraft
-Datapak foe minecraft
+Datapak for minecraft
